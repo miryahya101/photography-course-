@@ -1,2 +1,1 @@
-my# photography-course-
-pro
+index.html 
